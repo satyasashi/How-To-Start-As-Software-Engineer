@@ -1,4 +1,4 @@
-#Preface & Tips:
+# Preface & Tips:
   a) A Roadmap for DEVELOPERS.
      https://roadmap.sh/
   b) Always keep separate account for YouTube & General Google Searches. Irrelevant searches, Go INCOGNITO.
@@ -6,7 +6,7 @@
     Make good connections with people who seems interest to you professionally.
   d) Checkout GSoC - Google Summer of Code (https://summerofcode.withgoogle.com/)
 
-#NOW: 
+# NOW: 
 1. Pick one Language from below:
    [C, C++, Java, Python]
 
